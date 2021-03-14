@@ -1,2 +1,2 @@
 # project-excursion
-Codecademy project: Excursion Project
+Codecademy project: Excursion
